@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending - Weekly (周榜)</title>
+    <link>https://github.com/trending?since=weekly</link>
+    <description>GitHub Trending Weekly Open Source Projects</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Nov 2026 13:12:44 +0000</lastBuildDate>
+    <item>
+      <title>QwenLM/qwen-code (TypeScript)</title>
+      <link>https://github.com/QwenLM/qwen-code</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 30,584 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,469 stars this week&lt;br&gt;&lt;br&gt;An open-source AI coding agent that lives in your terminal.</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>openai/codex-security (TypeScript)</title>
+      <link>https://github.com/openai/codex-security</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 13,671 | &lt;b&gt;周期涨幅&lt;/b&gt;: 2,294 stars this week&lt;br&gt;&lt;br&gt;OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>addyosmani/agent-skills (JavaScript)</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: JavaScript | &lt;b&gt;Star数&lt;/b&gt;: 118,154 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,889 stars this week&lt;br&gt;&lt;br&gt;Production-grade engineering skills for AI coding agents.</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>alibaba/open-code-review (Go)</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 52,670 | &lt;b&gt;周期涨幅&lt;/b&gt;: 2,238 stars this week&lt;br&gt;&lt;br&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>google-deepmind/mujoco (C++)</title>
+      <link>https://github.com/google-deepmind/mujoco</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: C++ | &lt;b&gt;Star数&lt;/b&gt;: 18,140 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,922 stars this week&lt;br&gt;&lt;br&gt;Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>google/elephant-goldfish-model (Python)</title>
+      <link>https://github.com/google/elephant-goldfish-model</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 20,134 | &lt;b&gt;周期涨幅&lt;/b&gt;: 5,060 stars this week&lt;br&gt;&lt;br&gt;Open-source plugin for designing and reviewing software with agents</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>sherlock-project/sherlock (Python)</title>
+      <link>https://github.com/sherlock-project/sherlock</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 112,904 | &lt;b&gt;周期涨幅&lt;/b&gt;: 10,412 stars this week&lt;br&gt;&lt;br&gt;Hunt down social media accounts by username across social networks</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZhuLinsen/daily_stock_analysis (Python)</title>
+      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 72,698 | &lt;b&gt;周期涨幅&lt;/b&gt;: 4,548 stars this week&lt;br&gt;&lt;br&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>we-promise/sure (Ruby)</title>
+      <link>https://github.com/we-promise/sure</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Ruby | &lt;b&gt;Star数&lt;/b&gt;: 15,874 | &lt;b&gt;周期涨幅&lt;/b&gt;: 4,556 stars this week&lt;br&gt;&lt;br&gt;The personal finance app for everyone (by everyone)</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>vercel-labs/agent-browser (Rust)</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Rust | &lt;b&gt;Star数&lt;/b&gt;: 51,847 | &lt;b&gt;周期涨幅&lt;/b&gt;: 4,217 stars this week&lt;br&gt;&lt;br&gt;Browser automation CLI for AI agents</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>anthropics/skills (Python)</title>
+      <link>https://github.com/anthropics/skills</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 195,687 | &lt;b&gt;周期涨幅&lt;/b&gt;: 6,077 stars this week&lt;br&gt;&lt;br&gt;Public repository for Agent Skills</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>backnotprop/plannotator (TypeScript)</title>
+      <link>https://github.com/backnotprop/plannotator</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 12,232 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,719 stars this week&lt;br&gt;&lt;br&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>meta/astryx (TypeScript)</title>
+      <link>https://github.com/meta/astryx</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 29,318 | &lt;b&gt;周期涨幅&lt;/b&gt;: 13,501 stars this week&lt;br&gt;&lt;br&gt;An open source design system that's fully customizable and agent ready</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>GoogleChrome/modern-web-guidance-src (TypeScript)</title>
+      <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 7,743 | &lt;b&gt;周期涨幅&lt;/b&gt;: 5,692 stars this week&lt;br&gt;&lt;br&gt;Keep your coding agent up to date with the latest web best practices</description>
+      <pubDate>Mon, 16 Nov 2026 13:12:44 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
