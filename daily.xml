@@ -7,96 +7,96 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:49:54 +0000</lastBuildDate>
     <item>
       <title>google-research/paper-orchestra (Python)</title>
       <link>https://github.com/google-research/paper-orchestra</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 2,391 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,175 stars today&lt;br&gt;&lt;br&gt;PaperOrchestra is a multi-agent framework for automated AI research paper writing.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 2,898 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,175 stars today&lt;br&gt;&lt;br&gt;PaperOrchestra is a multi-agent framework for automated AI research paper writing.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>jingyaogong/minimind (Python)</title>
       <link>https://github.com/jingyaogong/minimind</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 65,730 | &lt;b&gt;周期涨幅&lt;/b&gt;: 188 stars today&lt;br&gt;&lt;br&gt;🧠 Train a 64M-parameter LLM from scratch in just 2h!</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 65,913 | &lt;b&gt;周期涨幅&lt;/b&gt;: 188 stars today&lt;br&gt;&lt;br&gt;🧠 Train a 64M-parameter LLM from scratch in just 2h!</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>affaan-m/ECC (JavaScript)</title>
       <link>https://github.com/affaan-m/ECC</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: JavaScript | &lt;b&gt;Star数&lt;/b&gt;: 305,112 | &lt;b&gt;周期涨幅&lt;/b&gt;: 902 stars today&lt;br&gt;&lt;br&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: JavaScript | &lt;b&gt;Star数&lt;/b&gt;: 305,444 | &lt;b&gt;周期涨幅&lt;/b&gt;: 902 stars today&lt;br&gt;&lt;br&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>sveltejs/svelte (JavaScript)</title>
       <link>https://github.com/sveltejs/svelte</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: JavaScript | &lt;b&gt;Star数&lt;/b&gt;: 89,367 | &lt;b&gt;周期涨幅&lt;/b&gt;: 533 stars today&lt;br&gt;&lt;br&gt;web development for the rest of us</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: JavaScript | &lt;b&gt;Star数&lt;/b&gt;: 89,566 | &lt;b&gt;周期涨幅&lt;/b&gt;: 533 stars today&lt;br&gt;&lt;br&gt;web development for the rest of us</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>backnotprop/plannotator (TypeScript)</title>
       <link>https://github.com/backnotprop/plannotator</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 12,924 | &lt;b&gt;周期涨幅&lt;/b&gt;: 691 stars today&lt;br&gt;&lt;br&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 13,038 | &lt;b&gt;周期涨幅&lt;/b&gt;: 691 stars today&lt;br&gt;&lt;br&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>ag-ui-protocol/ag-ui (TypeScript)</title>
       <link>https://github.com/ag-ui-protocol/ag-ui</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 19,829 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,444 stars today&lt;br&gt;&lt;br&gt;AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 19,961 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,444 stars today&lt;br&gt;&lt;br&gt;AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>obra/superpowers (Shell)</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Shell | &lt;b&gt;Star数&lt;/b&gt;: 319,046 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,905 stars today&lt;br&gt;&lt;br&gt;An agentic skills framework &amp; software development methodology that works.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Shell | &lt;b&gt;Star数&lt;/b&gt;: 319,282 | &lt;b&gt;周期涨幅&lt;/b&gt;: 598 stars today&lt;br&gt;&lt;br&gt;An agentic skills framework &amp; software development methodology that works.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>cursor/plugins (TypeScript)</title>
       <link>https://github.com/cursor/plugins</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 16,775 | &lt;b&gt;周期涨幅&lt;/b&gt;: 196 stars today&lt;br&gt;&lt;br&gt;Cursor plugin specification and official plugins</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 16,873 | &lt;b&gt;周期涨幅&lt;/b&gt;: 196 stars today&lt;br&gt;&lt;br&gt;Cursor plugin specification and official plugins</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>google-labs-code/stitch-skills (TypeScript)</title>
       <link>https://github.com/google-labs-code/stitch-skills</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 9,956 | &lt;b&gt;周期涨幅&lt;/b&gt;: 350 stars today&lt;br&gt;&lt;br&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 10,073 | &lt;b&gt;周期涨幅&lt;/b&gt;: 350 stars today&lt;br&gt;&lt;br&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>getarcaneapp/arcane (Go)</title>
       <link>https://github.com/getarcaneapp/arcane</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 9,110 | &lt;b&gt;周期涨幅&lt;/b&gt;: 654 stars today&lt;br&gt;&lt;br&gt;Modern Docker Management, Designed for Everyone</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 9,285 | &lt;b&gt;周期涨幅&lt;/b&gt;: 654 stars today&lt;br&gt;&lt;br&gt;Modern Docker Management, Designed for Everyone</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>dream-num/univer (TypeScript)</title>
       <link>https://github.com/dream-num/univer</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 28,707 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,776 stars today&lt;br&gt;&lt;br&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 28,871 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,776 stars today&lt;br&gt;&lt;br&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>Tencent/LoopForge (Go)</title>
       <link>https://github.com/Tencent/LoopForge</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 2,886 | &lt;b&gt;周期涨幅&lt;/b&gt;: 590 stars today&lt;br&gt;&lt;br&gt;Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 3,077 | &lt;b&gt;周期涨幅&lt;/b&gt;: 590 stars today&lt;br&gt;&lt;br&gt;Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>alibaba/open-code-review (Go)</title>
       <link>https://github.com/alibaba/open-code-review</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 53,477 | &lt;b&gt;周期涨幅&lt;/b&gt;: 764 stars today&lt;br&gt;&lt;br&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 53,690 | &lt;b&gt;周期涨幅&lt;/b&gt;: 764 stars today&lt;br&gt;&lt;br&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>mvanhorn/last30days-skill (Python)</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 68,671 | &lt;b&gt;周期涨幅&lt;/b&gt;: 772 stars today&lt;br&gt;&lt;br&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 68,984 | &lt;b&gt;周期涨幅&lt;/b&gt;: 772 stars today&lt;br&gt;&lt;br&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
     <item>
       <title>elementalsouls/Claude-BugHunter (Python)</title>
       <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 8,403 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,007 stars today&lt;br&gt;&lt;br&gt;A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
-      <pubDate>Tue, 17 Nov 2026 14:48:59 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 9,143 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,007 stars today&lt;br&gt;&lt;br&gt;A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
+      <pubDate>Tue, 17 Nov 2026 22:49:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
