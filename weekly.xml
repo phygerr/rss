@@ -7,96 +7,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:29:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:37:00 +0000</lastBuildDate>
+    <item>
+      <title>kajisho5/ffmpeg-skill (Python)</title>
+      <link>https://github.com/kajisho5/ffmpeg-skill</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 8,273 | &lt;b&gt;周期涨幅&lt;/b&gt;: 2,894 stars this week&lt;br&gt;&lt;br&gt;Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>dream-num/univer (TypeScript)</title>
       <link>https://github.com/dream-num/univer</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 30,387 | &lt;b&gt;周期涨幅&lt;/b&gt;: 6,840 stars this week&lt;br&gt;&lt;br&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>openai/codex-security (TypeScript)</title>
-      <link>https://github.com/openai/codex-security</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 14,166 | &lt;b&gt;周期涨幅&lt;/b&gt;: 2,630 stars this week&lt;br&gt;&lt;br&gt;OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>vercel-labs/agent-browser (Rust)</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Rust | &lt;b&gt;Star数&lt;/b&gt;: 52,763 | &lt;b&gt;周期涨幅&lt;/b&gt;: 2,987 stars this week&lt;br&gt;&lt;br&gt;Browser automation CLI for AI agents</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ag-ui-protocol/ag-ui (TypeScript)</title>
-      <link>https://github.com/ag-ui-protocol/ag-ui</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 20,548 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,221 stars this week&lt;br&gt;&lt;br&gt;AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>mvanhorn/last30days-skill (Python)</title>
-      <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 70,476 | &lt;b&gt;周期涨幅&lt;/b&gt;: 2,423 stars this week&lt;br&gt;&lt;br&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZhuLinsen/daily_stock_analysis (Python)</title>
-      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 73,446 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,566 stars this week&lt;br&gt;&lt;br&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>anthropics/skills (Python)</title>
-      <link>https://github.com/anthropics/skills</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 197,485 | &lt;b&gt;周期涨幅&lt;/b&gt;: 4,381 stars this week&lt;br&gt;&lt;br&gt;Public repository for Agent Skills</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChromeDevTools/chrome-devtools-mcp (TypeScript)</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 58,290 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,143 stars this week&lt;br&gt;&lt;br&gt;Chrome DevTools for coding agents</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>tradermonty/claude-trading-skills (Python)</title>
-      <link>https://github.com/tradermonty/claude-trading-skills</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 7,154 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,242 stars this week&lt;br&gt;&lt;br&gt;Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>google-labs-code/stitch-skills (TypeScript)</title>
-      <link>https://github.com/google-labs-code/stitch-skills</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 10,558 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,567 stars this week&lt;br&gt;&lt;br&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>alibaba/open-code-review (Go)</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 54,288 | &lt;b&gt;周期涨幅&lt;/b&gt;: 4,383 stars this week&lt;br&gt;&lt;br&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 30,415 | &lt;b&gt;周期涨幅&lt;/b&gt;: 6,840 stars this week&lt;br&gt;&lt;br&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
     </item>
     <item>
       <title>we-promise/sure (Ruby)</title>
       <link>https://github.com/we-promise/sure</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: Ruby | &lt;b&gt;Star数&lt;/b&gt;: 16,602 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,866 stars this week&lt;br&gt;&lt;br&gt;The personal finance app for everyone (by everyone)</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Ruby | &lt;b&gt;Star数&lt;/b&gt;: 16,667 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,866 stars this week&lt;br&gt;&lt;br&gt;The personal finance app for everyone (by everyone)</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pookjw/HermesEnabler (Objective-C)</title>
+      <link>https://github.com/pookjw/HermesEnabler</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Objective-C | &lt;b&gt;Star数&lt;/b&gt;: 2,242 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,019 stars this week&lt;br&gt;&lt;br&gt;Enable Hermès Watch Faces on any Apple Watch devices</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
     </item>
     <item>
       <title>meta/astryx (TypeScript)</title>
       <link>https://github.com/meta/astryx</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 30,761 | &lt;b&gt;周期涨幅&lt;/b&gt;: 6,250 stars this week&lt;br&gt;&lt;br&gt;An open source design system that's fully customizable and agent ready</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 30,893 | &lt;b&gt;周期涨幅&lt;/b&gt;: 6,250 stars this week&lt;br&gt;&lt;br&gt;An open source design system that's fully customizable and agent ready</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>backnotprop/plannotator (TypeScript)</title>
-      <link>https://github.com/backnotprop/plannotator</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 13,563 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,290 stars this week&lt;br&gt;&lt;br&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
+      <title>ag-ui-protocol/ag-ui (TypeScript)</title>
+      <link>https://github.com/ag-ui-protocol/ag-ui</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 20,602 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,221 stars this week&lt;br&gt;&lt;br&gt;AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>tradermonty/claude-trading-skills (Python)</title>
+      <link>https://github.com/tradermonty/claude-trading-skills</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 7,217 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,242 stars this week&lt;br&gt;&lt;br&gt;Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp (TypeScript)</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 58,339 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,143 stars this week&lt;br&gt;&lt;br&gt;Chrome DevTools for coding agents</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mvanhorn/last30days-skill (Python)</title>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Python | &lt;b&gt;Star数&lt;/b&gt;: 70,691 | &lt;b&gt;周期涨幅&lt;/b&gt;: 2,423 stars this week&lt;br&gt;&lt;br&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>alibaba/open-code-review (Go)</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: Go | &lt;b&gt;Star数&lt;/b&gt;: 54,351 | &lt;b&gt;周期涨幅&lt;/b&gt;: 4,383 stars this week&lt;br&gt;&lt;br&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
     </item>
     <item>
       <title>GoogleChrome/modern-web-guidance-src (TypeScript)</title>
       <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
-      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 8,982 | &lt;b&gt;周期涨幅&lt;/b&gt;: 7,257 stars this week&lt;br&gt;&lt;br&gt;Keep your coding agent up to date with the latest web best practices</description>
-      <pubDate>Thu, 19 Nov 2026 11:29:15 +0000</pubDate>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 9,067 | &lt;b&gt;周期涨幅&lt;/b&gt;: 7,257 stars this week&lt;br&gt;&lt;br&gt;Keep your coding agent up to date with the latest web best practices</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>google-labs-code/stitch-skills (TypeScript)</title>
+      <link>https://github.com/google-labs-code/stitch-skills</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 10,659 | &lt;b&gt;周期涨幅&lt;/b&gt;: 1,567 stars this week&lt;br&gt;&lt;br&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>backnotprop/plannotator (TypeScript)</title>
+      <link>https://github.com/backnotprop/plannotator</link>
+      <description>&lt;b&gt;开发语言&lt;/b&gt;: TypeScript | &lt;b&gt;Star数&lt;/b&gt;: 13,630 | &lt;b&gt;周期涨幅&lt;/b&gt;: 3,290 stars this week&lt;br&gt;&lt;br&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
+      <pubDate>Thu, 19 Nov 2026 19:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
